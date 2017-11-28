@@ -1,0 +1,4 @@
+sudo tail -f /var/log/syslog
+
+sudo insmod <name>
+sudo rmmod <name>
